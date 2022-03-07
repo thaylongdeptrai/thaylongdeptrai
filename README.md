@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @thaylongdeptrai (Cullen Carstens)
+- 👀 I’m interested in Full-Stack development!
+- 🌱 I’m currently learning React JS.
+- 💞️ I’m looking to collaborate on www.dragganaught.com
+- 📫 How to reach me: thaylongdeptrai@gmail.com or +84383638634
